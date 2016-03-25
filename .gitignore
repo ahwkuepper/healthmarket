@@ -2,3 +2,5 @@
 *.cvs
 *.jpg
 *.png
+.ipynb_checkpoints
+.DS_Store
