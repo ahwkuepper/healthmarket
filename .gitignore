@@ -1,6 +1,7 @@
 *~
-*.cvs
+*.csv
 *.jpg
 *.png
 .ipynb_checkpoints
 .DS_Store
+*.sqlite
